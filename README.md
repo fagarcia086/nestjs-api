@@ -102,6 +102,9 @@ $ npm ci
 -   https://github.com/Sairyss/domain-driven-hexagon
 -   https://wanago.io/2020/12/07/api-nestjs-introduction-cqrs/ - API with NestJS
 -   https://github.com/squareboat/nestjs-boilerplate production-ready 🏭 NestJS boilerplate with batteries 🔋 included.
+-   https://www.youtube.com/watch?v=b48oOe0VOOc
+-   https://github.com/V-ed/node-api-template
+-   https://github.com/nestjsplus?q=&type=&language=&sort=
 
 ## Todo
 
