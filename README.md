@@ -105,6 +105,7 @@ $ npm ci
 -   https://www.youtube.com/watch?v=b48oOe0VOOc
 -   https://github.com/V-ed/node-api-template
 -   https://github.com/nestjsplus?q=&type=&language=&sort=
+-   https://github.com/juanmesa2097/nestjs-boilerplate
 
 ## Todo
 
