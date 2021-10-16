@@ -106,6 +106,8 @@ $ npm ci
 -   https://github.com/V-ed/node-api-template
 -   https://github.com/nestjsplus?q=&type=&language=&sort=
 -   https://github.com/juanmesa2097/nestjs-boilerplate
+-   https://github.com/sgentile/nest-apollo-federation
+-   https://github.com/0xb4lamx/nestjs-boilerplate-microservice
 
 ## Todo
 
