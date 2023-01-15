@@ -108,6 +108,15 @@ $ npm ci
 -   https://github.com/juanmesa2097/nestjs-boilerplate
 -   https://github.com/sgentile/nest-apollo-federation
 -   https://github.com/0xb4lamx/nestjs-boilerplate-microservice
+-   https://github.com/danmt/microservices-basics
+-   https://github.com/ahmetuysal/nest-hackathon-starter
+-   https://github.com/ArkerLabs/event-sourcing-nestjs-graphql-example
+-   https://github.com/lnmunhoz/nestjs-graphql-serverless
+-   https://github.com/joeygoksu/prime-nestjs
+-   https://github.com/smarlhens/nest-boilerplate
+-   https://github.com/ArcherGu/fast-vite-nestjs-electron
+-   https://github.com/kenso312/nestjs-v9-webpack-boilerplate
+-   https://github.com/razalyalhafiz/orders-payments-microservices - NestJs Eventstore with SSE
 
 ## Todo
 
